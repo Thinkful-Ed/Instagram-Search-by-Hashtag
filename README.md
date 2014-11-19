@@ -4,9 +4,9 @@ Photo search example written in Swift for iOS 8.
 
 There are currently two iOS projects in this repo. One uses UITableView and the other uses UICollectionView.
 
-![screenshot](screenshot-1.png)
+![screenshot](screenshot-01.png)
 
-![screenshot](screenshot-2.png)
+![screenshot](screenshot-02.png)
 
 # Notes
 
